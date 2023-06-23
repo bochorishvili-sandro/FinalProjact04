@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ATM\ATM.csproj" />
+    <ProjectReference Include="..\Calculator\Calculator.csproj" />
+    <ProjectReference Include="..\Georgian_translator\Georgian_translator.csproj" />
+    <ProjectReference Include="..\GuessNumber and Hangman\Guess_number.csproj" />
+    <ProjectReference Include="..\Hangman\Hangman.csproj" />
+    <ProjectReference Include="..\Translator and GeorgianTranslator\Translator.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Finalproject/1.0.0": {
+        "dependencies": {
+          "ATM": "1.0.0",
+          "Calculator": "1.0.0",
+          "Georgian_translator": "1.0.0",
+          "Guess_number": "1.0.0",
+          "Hangman": "1.0.0",
+          "Translator": "1.0.0"
+        },
+        "runtime": {
+          "Finalproject.dll": {}
+        }
+      },
+      "ATM/1.0.0": {
+        "runtime": {
+          "ATM.dll": {}
+        }
+      },
+      "Calculator/1.0.0": {
+        "runtime": {
+          "Calculator.dll": {}
+        }
+      },
+      "Georgian_translator/1.0.0": {
+        "runtime": {
+          "Georgian_translator.dll": {}
+        }
+      },
+      "Guess_number/1.0.0": {
+        "runtime": {
+          "Guess_number.dll": {}
+        }
+      },
+      "Hangman/1.0.0": {
+        "runtime": {
+          "Hangman.dll": {}
+        }
+      },
+      "Translator/1.0.0": {
+        "runtime": {
+          "Translator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finalproject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Georgian_translator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guess_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hangman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Translator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
